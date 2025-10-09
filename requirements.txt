@@ -1,0 +1,15 @@
+pandas
+numpy
+pyjanitor
+pyarrow
+matplotlib
+seaborn
+plotly 
+scipy
+statsmodels
+scikit-learn 
+category-encoders
+ydata-profiling 
+openpyxl
+python-dateutil
+fastparquet
