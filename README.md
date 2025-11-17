@@ -130,4 +130,4 @@ The main goal is to **identify patterns that determine game success** and to **f
 **Juan Daniel Hernández Vargas**  
 Data Scientist | Biologist | TripleTen Student  
 📍 Colombia  
-💼 [LinkedIn](https://www.linkedin.com) *(add your link)*# ICE-Video-Game-Store-Data-Analysis-Project-
+💼 [LinkedIn](https://www.linkedin.com/in/juan-hernandez-vargas/) # ICE-Video-Game-Store-Data-Analysis-Project-
